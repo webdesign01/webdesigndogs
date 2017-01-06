@@ -1,0 +1,13 @@
+body{
+	background-color:#80ffd4;
+	font-family:Helvetica;
+	color:#7300e6;
+}
+
+ol{
+	list-style-position:inside;
+}
+
+ul{
+	list-style-position:inside;
+}
